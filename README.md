@@ -46,7 +46,7 @@ No segundo desafio, você deve expandir a aplicação adicionando recursos para 
 
 ## Pré-requisitos
 
-Antes de começar, certifique-se de ter o Docker instalado em seu sistema. Caso você não tenha o MySQL instalado localmente, vamos crie um contêiner Docker MySQL na porta 3666 para uso neste projeto.
+Antes de começar, certifique-se de ter o Docker instalado em seu sistema. Caso você não tenha o MySQL instalado localmente, crie um contêiner Docker MySQL na porta 3666 para uso neste projeto.
 
 Para executar a aplicação, siga estas etapas:
 
