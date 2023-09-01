@@ -2,9 +2,6 @@
 
 Este repositório contém um projeto Java que implementa um exercício intermediário envolvendo a criação de uma aplicação Spring Boot para gerenciamento de produtos. Este documento fornecerá instruções sobre como configurar e executar a aplicação, bem como detalhes sobre os desafios propostos.
 
-## Pré-requisitos
-
-Antes de começar, certifique-se de ter o Docker instalado em seu sistema. Caso você não tenha o MySQL instalado localmente, vamos crie um contêiner Docker MySQL na porta 3666 para uso neste projeto.
 
 ## Desafio 1: Configurando a Estrutura Básica
 
@@ -46,6 +43,10 @@ No segundo desafio, você deve expandir a aplicação adicionando recursos para 
 4. Teste os endpoints usando um cliente REST, como o Postman ou o cURL.
 
 ## Como Executar a Aplicação
+
+## Pré-requisitos
+
+Antes de começar, certifique-se de ter o Docker instalado em seu sistema. Caso você não tenha o MySQL instalado localmente, vamos crie um contêiner Docker MySQL na porta 3666 para uso neste projeto.
 
 Para executar a aplicação, siga estas etapas:
 
